@@ -1,34 +1,34 @@
 region,y1990,y2013
-Programming,7.6,13.4
-Engineering and Technology,36.4,22
-Science,30,13.3
-Design,45.5,31.1
-Technology Design,22.1,9.2
-Judgement and Decision Making,25.7,14.8
-Complex Problem Solving,24.5,7.7
-Persuation ,11.6,7.5
-Negotiation,50.6,29.5
-Instructing,49.3,30.1
-Telecommunication,27.4,14.4
-Active Listening,27.5,13.7
-Writing,26.3,21.3
-Reading comprehension,33.3,20
-Service Orientation,7.6,13.4
-Installation,36.4,22
-Monitoring,30,13.3
-Management of Material Resource,45.5,31.1
-Fine Arts,22.1,9.2
-Personal and HR,25.7,14.8
-Philosophy and Theology,24.5,7.7
-Therapy and Counseling ,11.6,7.5
-Sociology and Anthroplogy,50.6,29.5
-Economics and Accounting,49.3,30.1
-Equipment Selection,27.4,14.4
-Production and Processing,27.5,13.7
-Medicine and Dentistry ,26.3,21.3
-Food Production,7.6,13.4
-Chemistry,36.4,22
-Clerical,30,13.3
+Programming,7,75
+Engineering and Technology,32,100
+Science,24,75
+Design,0,40
+Technology Design,22,60
+Judgement and Decision Making,50,75
+Complex Problem Solving,20,77
+Persuation ,16,50
+Negotiation,50,75
+Instructing,50,60
+Telecommunication,74,84
+Active Listening,40,50
+Writing,45,55
+Reading comprehension,55,60   
+Service Orientation,65,70
+Installation,30,40
+Monitoring,30
+Management of Material Resource,40
+Fine Arts,40
+Personal and HR,75.7,54.8
+Philosophy and Theology,64.5,7.7
+Therapy and Counseling ,81.6,7.5
+Sociology and Anthroplogy,60.6,39.5
+Economics and Accounting,89.3,40.1
+Equipment Selection,77.4,14.4
+Production and Processing,67.5,43.7
+Medicine and Dentistry ,46.3,21.3
+Food Production,79.6,13.4
+Chemistry,86.4,22
+Clerical,50,13.3
 Operation Monitoring,45.5,31.1
 Equipment Maintenance,22.1,9.2
 Operation and Control,25.7,14.8
